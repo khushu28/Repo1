@@ -1,0 +1,8 @@
+Linux containers are a way to build a 
+self-contained environment that includes 
+software, libraries, and other tools.
+ CHTC currently supports running jobs
+  inside Docker containers. This guide describes how to build a Docker image that you can use for 
+running jobs in CHTC.
+ For information on using this 
+ image for jobs, see our Docker Jobs guide.
