@@ -2,3 +2,4 @@ Exercise - Move Azure Storage blobs using AzCopy
 Completed
 100 XP
 6 minutes
+add new change from branch main
