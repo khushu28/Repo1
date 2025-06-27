@@ -61,5 +61,5 @@
 // let sapcialSring = `this is a\ttemplate literal ${1 + 2 + 3}`;
 // console.log(sapcialSring);
 let str = "khuSHwant";
-str.toUpperCase();
+
 console.log(str.toUpperCase);
