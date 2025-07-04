@@ -62,4 +62,4 @@
 // console.log(sapcialSring);
 let str = "khuSHwant";
 
-console.log(str.toUpperCase);
+console.log(str.toLowerCase);
